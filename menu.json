@@ -1,0 +1,18 @@
+{
+    "baslangic": [
+        { "name": "Çorba", "price": "20" },
+        { "name": "Salata", "price": "15" }
+    ],
+    "anaYemekler": [
+        { "name": "Izgara Tavuk", "price": "50" },
+        { "name": "Etli Güveç", "price": "60" }
+    ],
+    "tatlilar": [
+        { "name": "Sütlaç", "price": "20" },
+        { "name": "Baklava", "price": "25" }
+    ],
+    "icecekler": [
+        { "name": "Çay", "price": "5" },
+        { "name": "Kahve", "price": "10" }
+    ]
+}
